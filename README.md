@@ -20,17 +20,17 @@ Variables
 11. Audience Type
 ------------------
 Metrics
-__________________
-$ Spend
-# Impressions
-# Clicks
-# Video Completes
-# Social Likes
-# Social Shares
-# Web Visits
-# Collateral Views
-# Product Views 
-# Form complete
+------------------
+1. $ Spend
+2. #Impressions
+3. #Clicks
+4. #Video Completes
+5. #Social Likes
+6. #Social Shares
+7. #Web Visits
+8. #Collateral Views
+9. #Product Views 
+10. #Form complete
 
 The project demonstrates the use of Zero-Inflated Regressor model which was then used in a Non-linear optimization tool with required constraints to allocate optimum budget based on :
 1. Click through rate
