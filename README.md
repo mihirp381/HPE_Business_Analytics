@@ -7,17 +7,17 @@ The problem set provides a dataset with over 1 million synthetic observations wi
 
 Variables 
 -----------------
-Date - the date when the metrics data is collected
-ID - Campaign ID
-Goal Code - Campaign Goal Code - {Intent to Buy, Awareness, Engagement, Consideration}
-Campaign Ad ID
-Ad Digital Channel - Medium of display - {Search, Social, Programmatic Ad Display}
-Ad Channel partner - Channel partner 1-9
-Ad device 
-Ad Group
-Ad Content ID
-Ad Content Type
-Audience Type
+1. Date - the date when the metrics data is collected
+2. ID - Campaign ID
+3. Goal Code - Campaign Goal Code - {Intent to Buy, Awareness, Engagement, Consideration}
+4. Campaign Ad ID
+5. Ad Digital Channel - Medium of display - {Search, Social, Programmatic Ad Display}
+6. Ad Channel partner - Channel partner 1-9
+7. Ad device 
+8. Ad Group
+9. Ad Content ID
+10. Ad Content Type
+11. Audience Type
 ------------------
 Metrics
 __________________
